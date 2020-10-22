@@ -1,0 +1,22 @@
+{
+  "name": "bb_optima",
+  "version": "1.0.0",
+  "description": "BB_Optima company website",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SBaumann94/BB_Optima.git"
+  },
+  "keywords": [
+    "BB_Optima"
+  ],
+  "author": "Steve Baumann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SBaumann94/BB_Optima/issues"
+  },
+  "homepage": "https://github.com/SBaumann94/BB_Optima#readme"
+}
